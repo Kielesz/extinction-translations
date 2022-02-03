@@ -50,11 +50,11 @@ local my_language = {
 	no_hud = "Brak HUD",
 
 	-- perms
-	kick_member = "Wyrzuć członków",
-	edit_member = "Edytuj członków",
-	edit_rank = "Edytuj rangi",
-	create_rank = "Stwórz rangi",
-	delete_rank = "Usuń rangi",
+	kick_member = "Wyrzuć członka",
+	edit_member = "Edytuj członka",
+	edit_rank = "Edytuj range",
+	create_rank = "Stwórz range",
+	delete_rank = "Usuń range",
 	edit_structure = "Edytuj informację o ekipie",
 	edit_permissions = "Edytuj permisje",
 	permission_level = "Udzielenie permisji",
